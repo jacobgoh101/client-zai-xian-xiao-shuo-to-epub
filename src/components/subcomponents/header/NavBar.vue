@@ -1,15 +1,15 @@
 <template>
-  <div class="hello">
-  
-  </div>
+  <mu-appbar title="Title">
+    To Epub
+  </mu-appbar>
 </template>
 
 <script>
 export default {
-  name: 'hello',
+  name: 'NavBar',
   data() {
     return {
-      msg: 'Welcome to Your Vue.js App'
+
     }
   }
 }
@@ -17,4 +17,5 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+
 </style>
