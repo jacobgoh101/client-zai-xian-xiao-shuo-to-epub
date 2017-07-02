@@ -10,8 +10,17 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "axios": "^0.16.2",
+    "charset": "^1.0.0",
+    "cheerio": "^1.0.0-rc.1",
+    "clean-deep": "^3.0.0",
+    "iconv-lite": "^0.4.18",
+    "md5": "^2.2.1",
     "muse-ui": "^2.0.3",
+    "sanitize-html": "^1.14.1",
+    "url-parse": "^1.1.9",
     "vue": "^2.3.3",
+    "vue-axios": "^2.0.2",
     "vue-router": "^2.3.1",
     "vuex": "^2.3.1",
     "vuex-router-sync": "^4.2.0"
